@@ -1,0 +1,677 @@
+% clauses that contains the cost from source to destination.
+way(agartala,ahmedabad,3305).
+way(agartala,banglore,3824).
+way(agartala,bhubaneshwar,2286).
+way(agartala,bombay,3593).
+way(agartala,calcutta,1863).
+way(agartala,chandigarh,2998).
+way(agartala,cochin,4304).
+way(agartala,delhi,2708).
+way(agartala,hyderabad,3330).
+way(agartala,indore,2891).
+way(agartala,jaipur,2801).
+way(agartala,kanpur,2281).
+
+way(agra,ahmedabad,878).
+way(agra,banglore,1848).
+way(agra,bhubaneshwar,1578).
+way(agra,bombay,1202).
+way(agra,calcutta,1300).
+way(agra,chandigarh,448).
+way(agra,cochin,2278).
+way(agra,delhi,200).
+way(agra,hyderabad,1246).
+way(agra,indore,591).
+way(agra,jaipur,230).
+way(agra,kanpur,290).
+
+way(ahmedabad,banglore,1490).
+way(ahmedabad,bhubaneshwar,1697).
+way(ahmedabad,bombay,552).
+way(ahmedabad,calcutta,2068).
+way(ahmedabad,chandigarh,1157).
+way(ahmedabad,cochin,1845).
+way(ahmedabad,delhi,911).
+way(ahmedabad,hyderabad,1436).
+way(ahmedabad,indore,442).
+way(ahmedabad,jaipur,648).
+way(ahmedabad,kanpur,1168).
+
+way(allahabad,ahmedabad,1251).
+way(allahabad,banglore,1686).
+way(allahabad,bhubaneshwar,1090).
+way(allahabad,bombay,1457).
+way(allahabad,calcutta,817).
+way(allahabad,chandigarh,912).
+way(allahabad,cochin,2216).
+way(allahabad,delhi,650).
+way(allahabad,hyderabad,1084).
+way(allahabad,indore,803).
+way(allahabad,jaipur,713).
+way(allahabad,kanpur,193).
+
+way(amritsar,ahmedabad,1356).
+way(amritsar,banglore,2496).
+way(amritsar,bhubaneshwar,2224).
+way(amritsar,bombay,1849).
+way(amritsar,calcutta,1919).
+way(amritsar,chandigarh,239).
+way(amritsar,cochin,3163).
+way(amritsar,delhi,445).
+way(amritsar,hyderabad,1892).
+way(amritsar,indore,1258).
+way(amritsar,jaipur,706).
+way(amritsar,kanpur,926).
+
+way(asansol,ahmedabad,1842).
+way(asansol,banglore,2187).
+way(asansol,bhubaneshwar,523).
+way(asansol,bombay,2040).
+way(asansol,calcutta,226).
+way(asansol,chandigarh,1503).
+way(asansol,cochin,2544).
+way(asansol,delhi,1262).
+way(asansol,hyderabad,1693).
+way(asansol,indore,1394).
+way(asansol,jaipur,1304).
+way(asansol,kanpur,789).
+
+way(banglore,ahmedabad,1490).
+way(banglore,bhubaneshwar,1538).
+way(banglore,bombay,1013).
+way(banglore,calcutta,1961).
+way(banglore,chandigarh,2296).
+way(banglore,cochin,512).
+way(banglore,delhi,2049).
+way(banglore,hyderabad,563).
+way(banglore,indore,1601 ).
+way(banglore,jaipur,2005 ).
+way(banglore,kanpur,1855).
+
+way(baroda,ahmedabad,119 ).
+way(baroda,banglore,1408 ).
+way(baroda,bhubaneshwar,1604 ).
+way(baroda,bombay,433).
+way(baroda,calcutta,1937).
+way(baroda,chandigarh,1181).
+way(baroda,cochin,1763).
+way(baroda,delhi,1151).
+way(baroda,hyderabad,1127).
+way(baroda,indore,379).
+
+way(bhopal,ahmedabad,523 ).
+way(bhopal,banglore,1148 ).
+way(bhopal,bhubaneshwar,1162 ).
+way(bhopal,bombay,778 ).
+way(bhopal,calcutta,1495 ).
+way(bhopal,chandigarh,988 ).
+way(bhopal,cochin,1995 ).
+way(bhopal,delhi,742 ).
+way(bhopal,hyderabad,808 ).
+way(bhopal,indore,191 ).
+way(bhopal,jaipur,596 ).
+way(bhopal,kanpur,585).
+
+way(bhubaneshwar,ahmedabad,1647 ).
+way(bhubaneshwar,banglore,1538 ).
+way(bhubaneshwar,bombay,1679 ).
+way(bhubaneshwar,calcutta,423 ).
+way(bhubaneshwar,chandigarh,2026 ).
+way(bhubaneshwar,cochin,1895 ).
+way(bhubaneshwar,delhi,1713 ).
+way(bhubaneshwar,hyderabad,1044 ).
+way(bhubaneshwar,indore,1355 ).
+way(bhubaneshwar,jaipur,1758 ).
+way(bhubaneshwar,kanpur,1283).
+
+way(bombay,ahmedabad,552 ).
+way(bombay,banglore,1013 ).
+way(bombay,bhubaneshwar,1678 ).
+way(bombay,calcutta,2012 ).
+way(bombay,chandigarh,1645 ).
+way(bombay,cochin,1368 ).
+way(bombay,delhi,1404 ).
+way(bombay,hyderabad,729 ).
+way(bombay,indore,589 ).
+way(bombay,jaipur,1148 ).
+way(bombay,kanpur,1278).
+
+way(calcutta,ahmedabad,2068 ).
+way(calcutta,banglore,1461 ).
+way(calcutta,bhubaneshwar,423 ).
+way(calcutta,bombay,2012 ).
+way(calcutta,chandigarh,1721 ).
+way(calcutta,cochin,2318 ).
+way(calcutta,delhi,1474 ).
+way(calcutta,hyderabad,1467 ).
+way(calcutta,indore,1620 ).
+way(calcutta,jaipur,1530 ).
+way(calcutta,kanpur,1010).
+
+way(calicut,ahmedabad,1648 ).
+way(calicut,banglore,520).
+way(calicut,bhubaneshwar,1923 ).
+way(calicut,bombay,1171 ).
+way(calicut,calcutta,2346 ).
+way(calicut,chandigarh,2741 ).
+way(calicut,cochin,222 ).
+way(calicut,delhi,2494 ).
+way(calicut,hyderabad,910 ).
+way(calicut,indore,1998 ).
+way(calicut,jaipur,2523 ).
+way(calicut,kanpur,2260).
+
+way(chandigarh,ahmedabad,1157 ).
+way(chandigarh,banglore,2296 ).
+way(chandigarh,bhubaneshwar,2026 ).
+way(chandigarh,bombay,1645 ).
+way(chandigarh,calcutta,1721 ).
+way(chandigarh,cochin,1965 ).
+way(chandigarh,delhi,248 ).
+way(chandigarh,hyderabad,1693 ).
+way(chandigarh,indore,1052 ).
+way(chandigarh,jaipur,507 ).
+way(asansol,kanpur,661).
+
+way(cochin,ahmedabad,1845 ).
+way(cochin,banglore,512 ).
+way(cochin,bhubaneshwar,1895 ).
+way(cochin,bombay,1368 ).
+way(cochin,calcutta,2318 ).
+way(cochin,chandigarh,1965 ).
+way(cochin,delhi,2718 ).
+way(cochin,hyderabad,1090 ).
+way(cochin,indore,1804 ).
+way(cochin,jaipur,2745 ).
+way(cochin,kanpur,2385).
+
+way(coimbatore,ahmedabad,1669 ).
+way(coimbatore,banglore,333 ).
+way(coimbatore,bhubaneshwar,1633 ).
+way(coimbatore,bombay,1192 ).
+way(coimbatore,calcutta,2057 ).
+way(coimbatore,chandigarh,2669 ).
+way(coimbatore,cochin,195 ).
+way(coimbatore,delhi,2412 ).
+way(coimbatore,hyderabad,912 ).
+way(coimbatore,indore,1964 ).
+way(coimbatore,jaipur,2369 ).
+way(coimbatore,kanpur,2218).
+
+way(delhi,ahmedabad,911 ).
+way(delhi,banglore,2049 ).
+way(delhi,bhubaneshwar,1713 ).
+way(delhi,bombay,1404 ).
+way(delhi,calcutta,1474 ).
+way(delhi,chandigarh,248 ).
+way(delhi,cochin,2718 ).
+way(delhi,hyderabad,1477 ).
+way(delhi,indore,806 ).
+way(delhi,jaipur,263 ).
+way(delhi,kanpur,481).
+
+way(gwalior,ahmedabad,919 ).
+way(gwalior,banglore,1734 ).
+way(gwalior,bhubaneshwar,1486 ).
+way(gwalior,bombay,1085 ).
+way(gwalior,calcutta,1224 ).
+way(gwalior,chandigarh,462 ).
+way(gwalior,cochin,1881 ).
+way(gwalior,delhi,315 ).
+way(gwalior,hyderabad,1132 ).
+way(gwalior,indore,497 ).
+way(gwalior,jaipur,351 ).
+way(gwalior,kanpur,280).
+
+way(hubli,ahmedabad,1101 ).
+way(hubli,banglore,391 ).
+way(hubli,bhubaneshwar,1620 ).
+way(hubli,bombay,614 ).
+way(hubli,calcutta,2032 ).
+way(hubli,chandigarh,2101 ).
+way(hubli,cochin,774 ).
+way(hubli,delhi,1854 ).
+way(hubli,hyderabad,486 ).
+way(hubli,indore,1060 ).
+way(hubli,jaipur,1060 ).
+way(hubli,kanpur,1772).
+
+way(hyderabad,ahmedabad,1436 ).
+way(hyderabad,banglore,563 ).
+way(hyderabad,bhubaneshwar,1044 ).
+way(hyderabad,bombay,729 ).
+way(hyderabad,calcutta,1467 ).
+way(hyderabad,chandigarh,1693 ).
+way(hyderabad,cochin,1090 ).
+way(hyderabad,delhi,1447 ).
+way(hyderabad,indore,999 ).
+way(hyderabad,jaipur,1404 ).
+way(hyderabad,kanpur,1253).
+
+way(imphal,ahmedabad,3240 ).
+way(imphal,banglore,3677 ).
+way(imphal,bhubaneshwar,2139 ).
+way(imphal,bombay,3446 ).
+way(imphal,calcutta,1717 ).
+way(imphal,chandigarh,2851 ).
+way(imphal,cochin,4156 ).
+way(imphal,delhi,2561 ).
+way(imphal,hyderabad,3283 ).
+way(imphal,indore,2744 ).
+way(imphal,jaipur,2654 ).
+way(imphal,kanpur,2134).
+
+way(indore,ahmedabad,442 ).
+way(indore,banglore,1601 ).
+way(indore,bhubaneshwar,1355 ).
+way(indore,bombay,589 ).
+way(indore,calcutta,1620 ).
+way(indore,chandigarh,1052 ).
+way(indore,cochin,1804 ).
+way(indore,delhi,806 ).
+way(indore,hyderabad,999 ).
+way(indore,jaipur,405 ).
+way(indore,kanpur,689).
+
+way(jabalpur,ahmedabad,901 ).
+way(jabalpur,banglore,1335 ).
+way(jabalpur,bhubaneshwar,1087 ).
+way(jabalpur,bombay,1143 ).
+way(jabalpur,calcutta,1167 ).
+way(jabalpur,chandigarh,1046 ).
+way(jabalpur,cochin,1885 ).
+way(jabalpur,delhi,800 ).
+way(jabalpur,hyderabad,733 ).
+way(jabalpur,indore,859 ).
+way(jabalpur,jaipur,845).
+way(jabalpur,kanpur,543).
+
+way(jaipur,ahmedabad,648 ).
+way(jaipur,banglore,2005 ).
+way(jaipur,bhubaneshwar,1758 ).
+way(jaipur,bombay,1148 ).
+way(jaipur,calcutta,1530 ).
+way(jaipur,chandigarh,507 ).
+way(jaipur,cochin,2745 ).
+way(jaipur,delhi,263 ).
+way(jaipur,hyderabad,1404 ).
+way(jaipur,indore,405 ).
+way(jaipur,kanpur,517).
+
+way(jamshedpur,ahmedabad,1225 ).
+way(jamshedpur,banglore,1690 ).
+way(jamshedpur,bhubaneshwar,422 ).
+way(jamshedpur,bombay,1916 ).
+way(jamshedpur,calcutta,268 ).
+way(jamshedpur,chandigarh,1602 ).
+way(jamshedpur,cochin,2710 ).
+way(jamshedpur,delhi,1356 ).
+way(jamshedpur,hyderabad,1578 ).
+way(jamshedpur,indore,1477 ).
+way(jamshedpur,jaipur,1387 ).
+way(jamshedpur,kanpur,867).
+
+
+way(jullundur,ahmedabad,1285 ).
+way(jullundur,banglore,2416 ).
+way(jullundur,bhubaneshwar,2413 ).
+way(jullundur,bombay,1778 ).
+way(jullundur,calcutta,1869 ).
+way(jullundur,chandigarh,154 ).
+way(jullundur,cochin,3082 ).
+way(jullundur,delhi,375 ).
+way(jullundur,hyderabad,1821 ).
+way(jullundur,indore,1171 ).
+way(jullundur,jaipur,891 ).
+way(jullundur,kanpur,855).
+
+way(kanpur,ahmedabad,1168 ).
+way(kanpur,banglore,1855  ).
+way(kanpur,bhubaneshwar,1283).
+way(kanpur,bombay,1278).
+way(kanpur,calcutta, 1010).
+way(kanpur,chandigarh,661 ).
+way(kanpur,cochin,   2385).
+way(kanpur,delhi, 481).
+way(kanpur,hyderabad,1253 ).
+way(kanpur,indore,689).
+way(kanpur,jaipur,517).
+
+way(lucknow,ahmedabad,1247 ).
+way(lucknow,banglore,1934 ).
+way(lucknow,bhubaneshwar,1254 ).
+way(lucknow,bombay,1366 ).
+way(lucknow,calcutta,1089 ).
+way(lucknow,chandigarh,740 ).
+way(lucknow,cochin,2572 ).
+way(lucknow,delhi,499 ).
+way(lucknow,hyderabad,1332).
+way(lucknow,indore,768  ).
+way(lucknow,jaipur,598  ).
+way(lucknow,kanpur,79).
+
+way(ludhiana,ahmedabad, 1220 ).
+way(ludhiana,banglore,2358  ).
+way(ludhiana,bhubaneshwar,2088  ).
+way(ludhiana,bombay, 1770 ).
+way(ludhiana,calcutta,1783  ).
+way(ludhiana,chandigarh,105).
+way(ludhiana,cochin,3027 ).
+way(ludhiana,delhi,310 ).
+way(ludhiana,hyderabad, 1756).
+way(ludhiana,indore,1115 ).
+way(ludhiana,jaipur, 570 ).
+way(ludhiana,kanpur,790).
+
+way(madras,ahmedabad,1821 ).
+way(madras,banglore,331 ).
+way(madras,bhubaneshwar,1207 ).
+way(madras,bombay,1344 ).
+way(madras,calcutta,1630 ).
+way(madras,chandigarh,2489 ).
+way(madras,cochin,687 ).
+way(madras,delhi,2243 ).
+way(madras,hyderabad,699 ).
+way(madras,indore,1795 ).
+way(madras,jaipur,2200 ).
+way(madras,kanpur,2049).
+
+way(madurai,ahmedabad,1922 ).
+way(madurai,banglore,432 ).
+way(madurai,bhubaneshwar,1687 ).
+way(madurai,bombay,1458 ).
+way(madurai,calcutta,2110 ).
+way(madurai,chandigarh,2785 ).
+way(madurai,cochin,326 ).
+way(madurai,delhi,2539 ).
+way(madurai,hyderabad,995 ).
+way(madurai,indore,2091 ).
+way(madurai,jaipur,2496 ).
+way(madurai,kanpur,2345).
+
+
+way(kolhapur,ahmedabad,911 ).
+way(kolhapur,bangalore,484  ).
+way(kolhapur,bhubaneshwar,1622 ).
+way(kolhapur,bombay,426 ).
+way(kolhapur,calcutta,2045  ).
+way(kolhapur,chandigarh, 1910 ).
+way(kolhapur,cochin,  934).
+way(kolhapur,delhi,1664  ).
+way(kolhapur,hyderabad,578  ).
+way(kolhapur,indore, 870).
+way(kolhapur,jaipur,1518  ).
+way(kolhapur,kanpur, 1779 ).
+
+
+way(meerut,ahmedabad,1092 ).
+way(meerut,banglore,2072 ).
+way(meerut,bhubaneshwar,1822 ).
+way(meerut,bombay,1468 ).
+way(meerut,calcutta,1497 ).
+way(meerut,chandigarh,381 ).
+way(meerut,cochin,2741 ).
+way(meerut,delhi,66 ).
+way(meerut,hyderabad,1470 ).
+way(meerut,indore,815 ).
+way(meerut,jaipur,327 ).
+way(meerut,kanpur,537).
+
+way(nagpur,ahmedabad,965 ).
+way(nagpur,banglore,1078 ).
+way(nagpur,bhubaneshwar,830 ).
+way(nagpur,bombay,849 ).
+way(nagpur,calcutta,1163 ).
+way(nagpur,chandigarh,1217 ).
+way(nagpur,cochin,1608 ).
+way(nagpur,delhi,971 ).
+way(nagpur,hyderabad,476 ).
+way(nagpur,indore,445 ).
+way(nagpur,jaipur,928 ).
+way(nagpur,kanpur,777).
+
+way(nasik,ahmedabad,504 ).
+way(nasik,banglore,1036 ).
+way(nasik,bhubaneshwar,1516 ).
+way(nasik,bombay,197 ).
+way(nasik,calcutta,1849 ).
+way(nasik,chandigarh,1466 ).
+way(nasik,cochin,1390 ).
+way(nasik,delhi,1220 ).
+way(nasik,hyderabad,754 ).
+way(nasik,indore,414 ).
+way(nasik,jaipur,1246 ).
+way(nasik,kanpur,1103).
+
+way(panjim,ahmedabad,1165 ).
+way(panjim,banglore,440 ).
+way(panjim,bhubaneshwar,1455 ).
+way(panjim,bombay,584 ).
+way(panjim,calcutta,974 ).
+way(panjim,chandigarh,2028 ).
+way(panjim,cochin,798 ).
+way(panjim,delhi,1782 ).
+way(panjim,hyderabad,765 ).
+way(panjim,indore,1115 ).
+way(panjim,jaipur,2496 ).
+way(panjim,kanpur,1813).
+
+way(patna,ahmedabad,1656 ).
+way(patna,banglore,2071 ).
+way(patna,bhubaneshwar,862 ).
+way(patna,bombay,1856 ).
+way(patna,calcutta,621 ).
+way(patna,chandigarh,1332 ).
+way(patna,cochin,2601 ).
+way(patna,delhi,1086 ).
+way(patna,hyderabad,1489 ).
+way(patna,indore,1205 ).
+way(patna,jaipur,1115 ).
+way(patna,kanpur,595).
+
+way(pondicherry,ahmedabad,1818 ).
+way(pondicherry,banglore,328 ).
+way(pondicherry,bhubaneshwar,1375 ).
+way(pondicherry,bombay,1452 ).
+way(pondicherry,calcutta,1798 ).
+way(pondicherry,chandigarh,2657).
+way(pondicherry,cochin,530 ).
+way(pondicherry,delhi,2411 ).
+way(pondicherry,hyderabad,867 ).
+way(pondicherry,indore,1963 ).
+way(pondicherry,jaipur,2368 ).
+way(pondicherry,kanpur,2217).
+
+way(pune,ahmedabad,664 ).
+way(pune,banglore,826 ).
+way(pune,bhubaneshwar,1587 ).
+way(pune,bombay,184 ).
+way(pune,calcutta,2058 ).
+way(pune,chandigarh,1663 ).
+way(pune,cochin,1181 ).
+way(pune,delhi,1417 ).
+way(pune,hyderabad,545 ).
+way(pune,indore,623 ).
+way(pune,jaipur,1371 ).
+way(pune,kanpur,1312).
+
+way(ranchi,ahmedabad,1781 ).
+way(ranchi,banglore,2098 ).
+way(ranchi,bhubaneshwar,560 ).
+way(ranchi,bombay,1816 ).
+way(ranchi,calcutta,414 ).
+way(ranchi,chandigarh,1480 ).
+way(ranchi,cochin,2455 ).
+way(ranchi,delhi,1214 ).
+way(ranchi,hyderabad,1434 ).
+way(ranchi,indore,1333 ).
+way(ranchi,jaipur,1243 ).
+way(ranchi,kanpur,723).
+
+way(shillong,ahmedabad,2839 ).
+way(shillong,banglore,3242 ).
+way(shillong,bhubaneshwar,1640 ).
+way(shillong,bombay,3011 ).
+way(shillong,calcutta,1281 ).
+way(shillong,chandigarh,2416 ).
+way(shillong,cochin,3599 ).
+way(shillong,delhi,2126 ).
+way(shillong,hyderabad,1309 ).
+way(shillong,indore,2309 ).
+way(shillong,jaipur,2229 ).
+way(shillong,kanpur,1699).
+
+way(shimla,ahmedabad,1256 ).
+way(shimla,banglore,2395 ).
+way(shimla,bhubaneshwar,2127 ).
+way(shimla,bombay,1753 ).
+way(shimla,calcutta,1839 ).
+way(shimla,chandigarh,99 ).
+way(shimla,cochin,3056 ).
+way(shimla,delhi,365 ).
+way(shimla,hyderabad,1812 ).
+way(shimla,indore,1171 ).
+way(shimla,jaipur,636 ).
+way(shimla,kanpur,846).
+
+way(surat,ahmedabad,263 ).
+way(surat,banglore, 1264).
+way(surat,bhubaneshwar,1579).
+way(surat,bombay,301 ).
+way(surat,calcutta,1912).
+way(surat,chandigarh,1325 ).
+way(surat,cochin,1593 ).
+way(surat,delhi,1182 ).
+way(surat,hyderabad, 983).
+way(surat,indore,607  ).
+way(surat,jaipur,932 ).
+way(surat,kanpur,  1296).
+
+way(trivandrum,ahmedabad,2197 ).
+way(trivandrum,banglore,696 ).
+way(trivandrum,bhubaneshwar,1953 ).
+way(trivandrum,bombay,1376 ).
+way(trivandrum,calcutta,2376 ).
+way(trivandrum,chandigarh,3051 ).
+way(trivandrum,cochin,218 ).
+way(trivandrum,delhi,1950 ).
+way(trivandrum,hyderabad,1261 ).
+way(trivandrum,indore,2156 ).
+way(trivandrum,jaipur,2782 ).
+way(trivandrum,kanpur,2611).
+
+way(varanasi,ahmedabad,1373 ).
+way(varanasi,banglore,1791 ).
+way(varanasi,bhubaneshwar,968 ).
+way(varanasi,bombay,1597 ).
+way(varanasi,calcutta,695 ).
+way(varanasi,chandigarh,1032 ).
+way(varanasi,cochin,2331 ).
+way(varanasi,delhi,745 ).
+way(varanasi,hyderabad,1189 ).
+way(varanasi,indore, 925).
+way(varanasi,jaipur,835).
+way(varanasi,kanpur,315).
+
+way(vijayawada,ahmedabad,1705 ).
+way(vijayawada,banglore,637 ).
+way(vijayawada,bhubaneshwar,775 ).
+way(vijayawada,bombay,973 ).
+way(vijayawada,calcutta,1198 ).
+way(vijayawada,chandigarh,1959 ).
+way(vijayawada,cochin,1174 ).
+way(vijayawada,delhi,1716 ).
+way(vijayawada,hyderabad,269 ).
+way(vijayawada,indore,1255 ).
+way(vijayawada,jaipur,1660 ).
+way(vijayawada,kanpur,1519).
+
+way(vishakhapatnam,ahmedabad,1815 ).
+way(vishakhapatnam,banglore,1093 ).
+way(vishakhapatnam,bhubaneshwar,445 ).
+way(vishakhapatnam,bombay,1754 ).
+way(vishakhapatnam,calcutta,868 ).
+way(vishakhapatnam,chandigarh,2127 ).
+way(vishakhapatnam,cochin,1449 ).
+way(vishakhapatnam,delhi,1881 ).
+way(vishakhapatnam,hyderabad,599 ).
+way(vishakhapatnam,indore,1433 ).
+way(vishakhapatnam,jaipur,1838 ).
+way(vishakhapatnam,kanpur,1687).
+
+heu(agartala,125).
+heu(agra,253).
+heu(ahmedabad,563).
+heu(allahabad,586).
+heu(amritsar,254).
+heu(asansol,359).
+heu(bangalore,786).
+heu(baroda,862).
+heu(bhopal,896).
+heu(bhubaneshwar,456).
+heu(bombay,863).
+heu(calcutta,753).
+heu(calicut,456).
+heu(chandigarh,563).
+heu(cochin,788).
+heu(coimbatore,345).
+heu(delhi,777).
+heu(gwalior,999).
+heu(hubli,782).
+heu(hyderabad,888).
+heu(imphal,111).
+heu(indore,101).
+heu(jabalpur,201).
+heu(jaipur,125).
+heu(jamshedpur,1352).
+heu(jullundur,1168).
+heu(kanpur,50).
+heu(kolhapur,213).
+heu(lucknow,1124).
+heu(ludhiana,6718).
+heu(madras,230).
+heu(madurai,725).
+heu(meerut,5732).
+heu(nagpur,9275).
+heu(nasik,266).
+heu(panjim,212).
+heu(patna,560).
+heu(pondicherry,2552).
+heu(pune,5513).
+heu(ranchi,2168).
+heu(shillong,543).
+heu(shimla,245).
+heu(surat,3355).
+heu(trivandrum,3342).
+heu(varanasi,255).
+heu(vijayawada,746).
+heu(vishakapatnam,545).
+goal(kanpur).
+
+draw :- random_between(0, 99999, X),
+   assert(heu(X)),
+   write(X).
+% value of each individual state
+
+% maintaining the list of current paths and reversed paths.
+astar(Node, Path/Cost) :- heu(Node, Estimate), aastar([[Node]/0/Estimate],RevPath/Cost/_),reverse(RevPath, Path).
+
+%moving according to the ways given, checking for cycles
+moveastar([Node|Path]/Cost/_, [NextNode,Node|Path]/NewCost/Est) :- way(Node, NextNode, StepCost),\+ member(NextNode, Path),
+NewCost is Cost + StepCost,heu(NextNode, Est).  %updating the cost
+
+%finding all the possible paths from source to destintion, keeping a track of cost.
+expand(Path, ExpPaths) :-findall(NewPath, moveastar(Path,NewPath), ExpPaths).
+
+%comparing the costs for each path and selecting the best path with minimum cost.
+get_best([Path], Path) :- !.
+get_best([Path1/Cost1/Est1,_/Cost2/Est2|Paths], BestPath) :- Cost1 + Est1 =< Cost2 + Est2, !,get_best([Path1/Cost1/Est1|Paths], BestPath).
+get_best([_|Paths], BestPath) :-get_best(Paths, BestPath).
+
+%stop we we get the best path else we keep checking.
+aastar(Paths, Path) :-get_best(Paths, Path),Path = [Node|_]/_/_,goal(Node).
+aastar(Paths, SolutionPath) :- get_best(Paths, BestPath),select(BestPath, Paths, OtherPaths),expand(BestPath, ExpPaths),
+append(OtherPaths, ExpPaths, NewPaths),
+aastar(NewPaths, SolutionPath).
+
+
